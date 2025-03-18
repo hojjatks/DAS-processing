@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+*EE42a
 # DAS data
 *.sgy
 *.segy
